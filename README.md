@@ -6,8 +6,10 @@
 
 ## resources
 
-- [hackerearth](https://www.hackerearth.com/practice/algorithms/)
+- [leetcode](https://leetcode.com/problemset/all/)
 
-- [leetcode](https://leetcode.com/)
+- [hackerearth's algorithms](https://www.hackerearth.com/practice/algorithms/)
+
+- [hackerearth's data-structures](https://www.hackerearth.com/practice/data-structures/)
 
 - [codeforces](https://codeforces.com/)

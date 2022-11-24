@@ -1,8 +1,8 @@
 # DSA
 
-> Data Structures and Algorithms
+> Data Structures and Algorithms including lot of challanges 💪
 >
-> including lot of challanges written mostly in Go and Rust 💪
+> challanges are written mostly in Go and Rust.
 
 ## resources
 
